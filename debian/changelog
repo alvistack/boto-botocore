@@ -1,0 +1,5 @@
+python-botocore (100:1.29.58-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/botocore/releases/tag/1.29.58
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 27 Jan 2023 11:20:33 +0800
