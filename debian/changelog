@@ -1,0 +1,5 @@
+python-botocore (100:1.31.46-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/botocore/releases/tag/1.31.46
+
+ -- Prasanthi Kanneganti <pkanneganti4e@pantarei-design.com>  Wed, 13 Sep 2023 16:52:47 +0800
