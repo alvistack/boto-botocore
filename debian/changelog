@@ -1,0 +1,5 @@
+python-botocore (100:1.33.5-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/botocore/releases/tag/1.33.5
+
+ -- Chau Wan Ying Fifi <wychau6b@pantarei-design.com>  Fri, 01 Dec 2023 17:41:50 +0800
