@@ -1,0 +1,29 @@
+Source: python-botocore
+Section: python
+Priority: optional
+Standards-Version: 4.5.0
+Maintainer: Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
+Homepage: https://github.com/boto/botocore/tags
+Vcs-Browser: https://github.com/alvistack/boto-botocore
+Vcs-Git: https://github.com/alvistack/boto-botocore.git
+Build-Depends:
+ debhelper,
+ debhelper-compat (= 10),
+ dh-python,
+ fdupes,
+ python3-dev,
+ python3-setuptools,
+
+Package: python3-botocore
+Architecture: all
+Description: Low-level, data-driven core of boto 3
+ A low-level interface to a growing number of Amazon Web Services. The
+ botocore package is the foundation for the AWS CLI as well as boto3.
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+ ${python3:Depends},
+ python3,
+ python3-dateutil (>= 2.1),
+ python3-jmespath (>= 0.7.1),
+ python3-urllib3 (>= 1.25.4),
