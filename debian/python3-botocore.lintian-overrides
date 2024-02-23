@@ -1,0 +1,4 @@
+python3-botocore: copyright-without-copyright-notice
+python3-botocore: initial-upload-closes-no-bugs
+python3-botocore: no-manual-page
+python3-botocore: zero-byte-file-in-doc-directory
