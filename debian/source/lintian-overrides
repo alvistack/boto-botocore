@@ -1,0 +1,5 @@
+python-botocore source: file-without-copyright-information
+python-botocore source: no-debian-changes
+python-botocore source: source-contains-prebuilt-windows-binary
+python-botocore source: source-is-missing
+python-botocore source: source-package-encodes-python-version
